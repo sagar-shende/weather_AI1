@@ -4,7 +4,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-Agent-green)
 ![Model](https://img.shields.io/badge/Model-Llama_3.2_90B-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-[![Open in nbviewer](https://img.shields.io/badge/Open-nbviewer-orange)](https://nbviewer.org/github/sagar-shende/weather_AI1/blob/main/weather_AI%281%29.ipynb)
+[![Open in nbviewer](https://img.shields.io/badge/Open-nbviewer-orange)](https://nbviewer.org/github/sagar-shende/weather_AI1/blob/main/weather-ai-agent-ibm-watsonx)
 
 > 🤖 An AI-powered weather agent built on IBM watsonx.ai platform
 > using LangGraph ReAct agent with real-time GoogleSearch tool.
